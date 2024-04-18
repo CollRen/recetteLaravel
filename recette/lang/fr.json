@@ -1,0 +1,13 @@
+{
+    "Login":"Connexion",
+    "Logout":"Déconnexion",
+    "Users":"Utilisateurs",
+    "New User":"Nouvel utilisateur",
+    "Recettes":"Tâches",
+    "New Recette":"Nouvelle tâche",
+    "Completed":"Terminé",
+    "Unfinished":"Inachevé",
+    "Language":"Langue",
+    "English":"Anglais",
+    "French":"Français"
+}
